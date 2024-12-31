@@ -7,6 +7,12 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+venv/
+myenv/
+data/
+*.xlsx
+*.csv
+*.pdf
 .Python
 build/
 develop-eggs/
